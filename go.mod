@@ -1,4 +1,4 @@
-module github.com/fatedier/golib
+module github.com/rise-worlds/mygolib
 
 go 1.21
 
